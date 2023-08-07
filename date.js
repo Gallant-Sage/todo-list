@@ -17,4 +17,3 @@ function getDate() {
     return day;
 }
 
-// to-dolist-v1 || C:/Users/SOURABH/OneDrive/Documents/NodeJs/to-dolist-v1
